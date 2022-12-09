@@ -10,9 +10,9 @@ h5{
     color: rgb(0, 128, 255);
 }
 
-.secondsection{
-    background-color: rgba(255, 255, 255, 0.917);
-    color:black;
+#secondsection{
+    background-color:rgba(255, 255, 255, 0.917) ;
+    color: black;
 }
 .thirdsection{
     background-color:rgba(255, 255, 255, 0.917) ;
@@ -21,10 +21,10 @@ h5{
 img{
     border-radius: 30%;
     margin-right: auto;
-    height: 200px;
-    width: 150px;
+    height: 320px;
+    width: 240px;
 }
-.videosection{
+#videosection{
     align-items: center;
     font-size: 50px;
     font-weight: 500;
